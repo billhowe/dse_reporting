@@ -9,7 +9,7 @@ google.setOnLoadCallback( function () {
     //set google visualization bar chart options here
     //**********************************************************
     var options = {
-        title: 'DSE Activities',
+        title: 'Categorized DSE Activities from 2015 Annual Reports',
         chartArea: {
             width: '45%',
             height: '70%'
